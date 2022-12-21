@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# You can visit site https://polaamgad88.github.io/DirtyCode/
+# You can visit app through this link 
+https://polaamgad88.github.io/DirtyCode/
 
 ## Available Scripts
 
